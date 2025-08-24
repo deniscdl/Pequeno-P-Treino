@@ -1,26 +1,13 @@
 ﻿Textos do Pequeno Príncipe
 
-<<<<<<< HEAD
-Texto 01 vscode
-=======
->>>>>>> parent of 18edab0 (Segundo commit feito no github)
+Texto 01
 
 – Ah! Que engraçado! Os dias aqui duram um minuto!
 – Não é nada engraçado, disse o acendedor. Já faz um mês que estamos conversando.
 – Um mês?
 – Sim. Trinta minutos. Trinta dias. Boa noite.
-<<<<<<< HEAD
 
-Texto 02 githubremoto baixado
+Texto 02
 
 O essencial é invisível aos olhos, e só se pode ver com o coração.
 
-Texto 03 vs code
-
-A gente só conhece bem as coisas que cativou - disse a raposa.
-- Os homens não têm mais tempo de conhecer coisa alguma. Compram tudo já pronto nas lojas. 
-Mas como não existem lojas de amigos, os homens não têm mais amigos. Se tu queres um amigo, 
-cativa-me!
-
-=======
->>>>>>> parent of 18edab0 (Segundo commit feito no github)
