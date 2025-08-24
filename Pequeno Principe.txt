@@ -1,11 +1,15 @@
 ﻿Textos do Pequeno Príncipe
 
+<<<<<<< HEAD
 Texto 01 vscode
+=======
+>>>>>>> parent of 18edab0 (Segundo commit feito no github)
 
 – Ah! Que engraçado! Os dias aqui duram um minuto!
 – Não é nada engraçado, disse o acendedor. Já faz um mês que estamos conversando.
 – Um mês?
 – Sim. Trinta minutos. Trinta dias. Boa noite.
+<<<<<<< HEAD
 
 Texto 02 githubremoto baixado
 
@@ -18,3 +22,5 @@ A gente só conhece bem as coisas que cativou - disse a raposa.
 Mas como não existem lojas de amigos, os homens não têm mais amigos. Se tu queres um amigo, 
 cativa-me!
 
+=======
+>>>>>>> parent of 18edab0 (Segundo commit feito no github)
